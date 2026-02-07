@@ -105,6 +105,6 @@
 - 💼 LinkedIn: https://linkedin.com/in/iamsidh03
 - 🧠 LeetCode: https://leetcode.com/u/siddharthraj3101/
 - 🐱 GitHub: https://github.com/iamsidh03
-- 🌐 Portfolio: *Coming soon*
+- 🌐 Portfolio: https://portfolio-rust-seven-57j41rsy8w.vercel.app/
 
 ---
